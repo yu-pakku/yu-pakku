@@ -25,7 +25,44 @@
 - Python / PHP / SQL / シェル
 
 ## 📦 Projects
-| アプリ名 | 概要 | 使用技術 | リンク |
-|---|---|---|---|
-| yuma-app | Webアプリを継続的に作成し、作成から理解まで進める開発チャレンジ | Next.js / TypeScript / Laravel / Zustand / Tailwind CSS / MySQL / PostgreSQL / Supabase | [Repository](https://github.com/yu-pakku/yuma-app) |
-| SnapSpot | スポット情報をタグ・カテゴリで整理するアプリ（開発中） | Next.js / TypeScript / Tailwind CSS / Laravel / MySQL / Docker | [Repository](https://github.com/yu-pakku/SnapSpot) |
+
+### 👤 個人制作
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3>
+      <a href="https://github.com/yu-pakku/yuma-app">
+        <img src="https://placehold.co/360x360/png?text=yuma-app" alt="yuma-app" width="360" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <h3>学生データバンク</h3>
+      <img src="https://placehold.co/360x360/png?text=Student+Data+Bank" alt="学生データバンク" width="360" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>記憶アプリ</h3>
+      <img src="https://placehold.co/360x360/png?text=Memory+App" alt="記憶アプリ" width="360" />
+    </td>
+    <td align="center" valign="top">
+      <h3>Game</h3>
+      <img src="https://placehold.co/360x360/png?text=Game" alt="Game" width="360" />
+    </td>
+  </tr>
+</table>
+
+### 👥 チーム制作
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3>
+      <a href="https://github.com/yu-pakku/SnapSpot">
+        <img src="https://placehold.co/360x360/png?text=SnapSpot" alt="SnapSpot" width="360" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
