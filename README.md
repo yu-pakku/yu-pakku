@@ -39,7 +39,7 @@
     <td align="center" valign="top">
       <h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3>
       <a href="https://github.com/yu-pakku/reboost">
-        <img src="https://placehold.co/360x360/png?text=Memory+App" alt="ReBoost" width="360" />
+        <img src="./images/reboost.png" alt="ReBoost" width="360" />
       </a>
     </td>
   </tr>
@@ -62,7 +62,7 @@
     <td align="center" valign="top">
       <h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3>
       <a href="https://github.com/yu-pakku/SnapSpot">
-        <img src="https://placehold.co/360x360/png?text=SnapSpot" alt="SnapSpot" width="360" />
+        <img src="./images/snapspot.png" alt="SnapSpot" width="360" />
       </a>
     </td>
     <td align="center" valign="top">
