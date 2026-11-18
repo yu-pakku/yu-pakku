@@ -33,7 +33,7 @@
     <td align="center" valign="top">
       <h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3>
       <a href="https://github.com/yu-pakku/yuma-app">
-        <img src="https://placehold.co/360x360/png?text=yuma-app" alt="yuma-app" width="360" />
+        <img src="./images/yuma-app.png" alt="yuma-app" width="360" />
       </a>
     </td>
     <td align="center" valign="top">
