@@ -13,9 +13,6 @@
 
 ## 🛠 Tech Stack
 
-<details>
-<summary><b>Frontend / Backend / Database / DevOps / Tools / Design</b>（クリックで表示）</summary>
-
 🎓 習得済み　📖 学習中
 
 **Frontend**
@@ -91,8 +88,6 @@
   <img src="./images/stack/illustrator.png" alt="Illustrator（学習中）" title="Illustrator（学習中）" height="30" />
   <img src="./images/stack/photoshop.png" alt="Photoshop（学習中）" title="Photoshop（学習中）" height="30" />
 </p>
-
-</details>
 
 ## 📦 Projects
 
