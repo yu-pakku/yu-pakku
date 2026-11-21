@@ -13,6 +13,9 @@
 
 ## 🛠 Tech Stack
 
+<details>
+<summary><b>Frontend / Backend / Database / DevOps / Tools / Design</b>（クリックで表示）</summary>
+
 🎓 習得済み　📖 学習中
 
 **Frontend**
@@ -34,10 +37,13 @@
 <p>
   <img src="./images/stack/php.png" alt="PHP（習得済み）" title="PHP（習得済み）" height="30" />
   <img src="./images/stack/laravel.png" alt="Laravel（習得済み）" title="Laravel（習得済み）" height="30" />
+  <img src="./images/stack/django.png" alt="Django（習得済み）" title="Django（習得済み）" height="30" />
   <img src="./images/stack/nodejs.png" alt="Node.js（学習中）" title="Node.js（学習中）" height="30" />
   <img src="./images/stack/python.png" alt="Python（学習中）" title="Python（学習中）" height="30" />
   <img src="./images/stack/java.png" alt="Java（学習中）" title="Java（学習中）" height="30" />
   <img src="./images/stack/c.png" alt="C（学習中）" title="C（学習中）" height="30" />
+  <img src="./images/stack/fastapi.png" alt="FastAPI（学習中）" title="FastAPI（学習中）" height="30" />
+  <img src="./images/stack/wordpress.png" alt="WordPress（学習中）" title="WordPress（学習中）" height="30" />
 </p>
 
 **Database**
@@ -48,6 +54,7 @@
   <img src="./images/stack/supabase.png" alt="Supabase（学習中）" title="Supabase（学習中）" height="30" />
   <img src="./images/stack/firebase.png" alt="Firebase（学習中）" title="Firebase（学習中）" height="30" />
   <img src="./images/stack/prisma.png" alt="Prisma（学習中）" title="Prisma（学習中）" height="30" />
+  <img src="./images/stack/sqlite.png" alt="SQLite（学習中）" title="SQLite（学習中）" height="30" />
   <img src="./images/stack/drizzle.png" alt="Drizzle ORM（学習中）" title="Drizzle ORM（学習中）" height="30" />
 </p>
 
@@ -72,6 +79,7 @@
   <img src="./images/stack/notion.png" alt="Notion（習得済み）" title="Notion（習得済み）" height="30" />
   <img src="./images/stack/claude.png" alt="Claude（習得済み）" title="Claude（習得済み）" height="30" />
   <img src="./images/stack/chatgpt.png" alt="ChatGPT（習得済み）" title="ChatGPT（習得済み）" height="30" />
+  <img src="./images/stack/npm.png" alt="npm（学習中）" title="npm（学習中）" height="30" />
 </p>
 
 **Design**
@@ -84,33 +92,75 @@
   <img src="./images/stack/photoshop.png" alt="Photoshop（学習中）" title="Photoshop（学習中）" height="30" />
 </p>
 
+</details>
+
 ## 📦 Projects
 
 ### 👤 個人制作
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3>
       <a href="https://github.com/yu-pakku/yuma-app">
         <img src="./images/yuma-app.png" alt="yuma-app" width="360" />
       </a>
+      <details>
+        <summary>説明</summary>
+        <p>1週間で1つのWebアプリを自力で作り、コードを理解するまで進めるチャレンジ用のリポジトリ</p>
+      </details>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3>
       <a href="https://github.com/yu-pakku/reboost">
         <img src="./images/reboost.png" alt="ReBoost" width="360" />
       </a>
+      <details>
+        <summary>説明</summary>
+        <p>記憶の定着を助けるアプリ。記憶に有効な学習方法を調べ、その考え方を機能に取り入れています</p>
+      </details>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3>学生データバンク</h3>
-      <img src="https://placehold.co/360x360/png?text=Student+Data+Bank" alt="学生データバンク" width="360" />
+      <img src="./images/student-data-bank.png" alt="学生データバンク" width="360" />
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
     </td>
-    <td align="center" valign="top">
-      <h3>Game</h3>
-      <img src="https://placehold.co/360x360/png?text=Game" alt="Game" width="360" />
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/yu-pakku/game">ボードゲーム</a></h3>
+      <a href="https://github.com/yu-pakku/game">
+        <img src="./images/board-game.png" alt="ボードゲーム" width="360" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="#">インディーゲーム</a></h3>
+      <a href="#">
+        <img src="./images/indie-game.png" alt="インディーゲーム" width="360" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="#">ポートフォリオ</a></h3>
+      <a href="#">
+        <img src="./images/portfolio.png" alt="ポートフォリオ" width="360" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
     </td>
   </tr>
 </table>
@@ -119,17 +169,25 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3>
       <a href="https://github.com/yu-pakku/SnapSpot">
         <img src="./images/snapspot.png" alt="SnapSpot" width="360" />
       </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3><a href="https://github.com/WeatherNewsApp/weather-web-frontend">Muddy</a></h3>
       <a href="https://github.com/WeatherNewsApp/weather-web-frontend">
         <img src="./images/muddy.png" alt="Muddy" width="360" />
       </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
     </td>
   </tr>
 </table>
