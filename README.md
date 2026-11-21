@@ -11,6 +11,104 @@
 - 🔨 **Now** — [yuma-app](https://github.com/yu-pakku/yuma-app)：週1本のWebアプリ開発チャレンジ
 - 📚 **Focus** — Next.js（App Router）／TypeScript／SQL・HTTP・Gitの基礎
 
+## 📦 Projects
+
+### 👤 個人制作
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3>
+      <a href="https://github.com/yu-pakku/yuma-app">
+        <img src="./images/yuma-app.png" alt="yuma-app" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>1週間で1つのWebアプリを自力で作り、コードを理解するまで進めるチャレンジ用のリポジトリ</p>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3>
+      <a href="https://github.com/yu-pakku/reboost">
+        <img src="./images/reboost.png" alt="ReBoost" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>記憶の定着を助けるアプリ。記憶に有効な学習方法を調べ、その考え方を機能に取り入れています</p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>学生データバンク</h3>
+      <img src="./images/student-data-bank.png" alt="学生データバンク" width="1000" />
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/yu-pakku/game">ボードゲーム</a></h3>
+      <a href="https://github.com/yu-pakku/game">
+        <img src="./images/board-game.png" alt="ボードゲーム" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="#">インディーゲーム</a></h3>
+      <a href="#">
+        <img src="./images/indie-game.png" alt="インディーゲーム" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="#">ポートフォリオ</a></h3>
+      <a href="#">
+        <img src="./images/portfolio.png" alt="ポートフォリオ" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+### 👥 チーム制作
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3>
+      <a href="https://github.com/yu-pakku/SnapSpot">
+        <img src="./images/snapspot.png" alt="SnapSpot" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><a href="https://github.com/WeatherNewsApp/weather-web-frontend">Muddy</a></h3>
+      <a href="https://github.com/WeatherNewsApp/weather-web-frontend">
+        <img src="./images/muddy.png" alt="Muddy" width="1000" />
+      </a>
+      <details>
+        <summary>説明</summary>
+        <p>（準備中）</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
 ## 🛠 Tech Stack
 
 🎓 習得済み　📖 学習中
@@ -88,101 +186,3 @@
   <img src="./images/stack/illustrator.png" alt="Illustrator（学習中）" title="Illustrator（学習中）" height="30" />
   <img src="./images/stack/photoshop.png" alt="Photoshop（学習中）" title="Photoshop（学習中）" height="30" />
 </p>
-
-## 📦 Projects
-
-### 👤 個人制作
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3>
-      <a href="https://github.com/yu-pakku/yuma-app">
-        <img src="./images/yuma-app.png" alt="yuma-app" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>1週間で1つのWebアプリを自力で作り、コードを理解するまで進めるチャレンジ用のリポジトリ</p>
-      </details>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3>
-      <a href="https://github.com/yu-pakku/reboost">
-        <img src="./images/reboost.png" alt="ReBoost" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>記憶の定着を助けるアプリ。記憶に有効な学習方法を調べ、その考え方を機能に取り入れています</p>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>学生データバンク</h3>
-      <img src="./images/student-data-bank.png" alt="学生データバンク" width="360" />
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/yu-pakku/game">ボードゲーム</a></h3>
-      <a href="https://github.com/yu-pakku/game">
-        <img src="./images/board-game.png" alt="ボードゲーム" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="#">インディーゲーム</a></h3>
-      <a href="#">
-        <img src="./images/indie-game.png" alt="インディーゲーム" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="#">ポートフォリオ</a></h3>
-      <a href="#">
-        <img src="./images/portfolio.png" alt="ポートフォリオ" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-  </tr>
-</table>
-
-### 👥 チーム制作
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3>
-      <a href="https://github.com/yu-pakku/SnapSpot">
-        <img src="./images/snapspot.png" alt="SnapSpot" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/WeatherNewsApp/weather-web-frontend">Muddy</a></h3>
-      <a href="https://github.com/WeatherNewsApp/weather-web-frontend">
-        <img src="./images/muddy.png" alt="Muddy" width="360" />
-      </a>
-      <details>
-        <summary>説明</summary>
-        <p>（準備中）</p>
-      </details>
-    </td>
-  </tr>
-</table>
