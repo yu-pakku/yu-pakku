@@ -1,12 +1,18 @@
-# Hi, I'm yuuma 👋
+<p align="center">
+  <img src="./images/header.png" alt="yuuma — Full-stack engineer in training. Building one app a week, by hand, fully understood." width="100%" />
+</p>
 
-フルスタックエンジニアを目指して、Webアプリ開発を通じた学習に取り組んでいます。  
-現在は「1週間で1つのアプリを自力で作り、理解まで進める」チャレンジを継続中です。
+## 👋 About Me
 
-## 🔨 Current Focus
-- **[yuma-app](https://github.com/yu-pakku/yuma-app)**：週1本のWebアプリ開発チャレンジ
-- Next.js（App Router）と TypeScript によるフルスタック開発
-- SQL・HTTP・Git など、Web開発の基礎を説明できる水準まで深めること
+```ts
+const yuuma = {
+  goal: "フルスタックエンジニア",
+  challenge: "1週間で1つのアプリを自力で作り、理解まで進める",
+  focus: ["Next.js (App Router)", "TypeScript", "SQL・HTTP・Gitの基礎"],
+  value: "誰のどんな課題を解決するかから考える",
+  now: "yuma-app → github.com/yu-pakku/yuma-app",
+};
+```
 
 ## 🛠 Tech Stack
 
