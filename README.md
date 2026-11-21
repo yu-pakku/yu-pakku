@@ -4,10 +4,12 @@
 
 ## 👋 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/about-dark.png" />
-  <img src="./images/about-light.png" alt="const yuuma = { goal: フルスタックエンジニア, challenge: 週1本のアプリを自力で作り、理解まで進める, focus: Next.js / TypeScript / Webの基礎, value: 誰のどんな課題を解決するかから考える }" width="100%" />
-</picture>
+**「誰のどんな課題を解決するか」から考える開発**を大事にしています。  
+現在は、1週間で1つのアプリを自力で作り、理解まで進めるチャレンジに取り組んでいます。
+
+- 🎯 **Goal** — フルスタックエンジニア
+- 🔨 **Now** — [yuma-app](https://github.com/yu-pakku/yuma-app)：週1本のWebアプリ開発チャレンジ
+- 📚 **Focus** — Next.js（App Router）／TypeScript／SQL・HTTP・Gitの基礎
 
 ## 🛠 Tech Stack
 
