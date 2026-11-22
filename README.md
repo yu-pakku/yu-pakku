@@ -32,8 +32,8 @@
 <br clear="both" />
 
 <table align="left">
-  <tr><th><h3>学生データバンク</h3></th></tr>
-  <tr><td align="center"><img src="./images/student-data-bank.png" alt="学生データバンク" width="300" /></td></tr>
+  <tr><th><h3><a href="https://github.com/yu-pakku/laravel-student-app">学生データバンク</a></h3></th></tr>
+  <tr><td align="center"><a href="https://github.com/yu-pakku/laravel-student-app"><img src="./images/student-data-bank.png" alt="学生データバンク" width="300" /></a></td></tr>
   <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
 </table>
 <table align="left">
