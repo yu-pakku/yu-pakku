@@ -15,59 +15,85 @@
 
 ## 📦 Projects
 
-<!-- 説明文は1行17〜18文字以内を目安に <br> で改行してください（長い行があるとカードの幅が広がり、横並びが崩れます） -->
-
 ### 👤 個人制作
 
-<table align="left">
-  <tr><th><h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/yu-pakku/yuma-app"><img src="./images/yuma-app.png" alt="yuma-app" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>1週間で1つのWebアプリを自力で作り、<br>コードを理解するまで進める<br>チャレンジ用のリポジトリ</p></details></td></tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%"><h3><a href="https://github.com/yu-pakku/yuma-app">yuma-app</a></h3></th>
+      <th width="50%"><h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/yu-pakku/yuma-app"><img src="./images/yuma-app.png" alt="yuma-app" width="1000" /></a></td>
+      <td align="center"><a href="https://github.com/yu-pakku/reboost"><img src="./images/reboost.png" alt="ReBoost" width="1000" /></a></td>
+    </tr>
+    <tr>
+      <td valign="top"><details><summary>説明</summary><p>1週間で1つのWebアプリを自力で作り、コードを理解するまで進めるチャレンジ用のリポジトリ</p></details></td>
+      <td valign="top"><details><summary>説明</summary><p>記憶の定着を助けるアプリ。記憶に有効な学習方法を調べ、その考え方を機能に取り入れています</p></details></td>
+    </tr>
+  </tbody>
 </table>
-<table align="left">
-  <tr><th><h3><a href="https://github.com/yu-pakku/reboost">ReBoost</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/yu-pakku/reboost"><img src="./images/reboost.png" alt="ReBoost" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>記憶の定着を助けるアプリ。<br>記憶に有効な学習方法を調べ、<br>その考え方を機能に取り入れています</p></details></td></tr>
-</table>
-<br clear="both" />
 
-<table align="left">
-  <tr><th><h3><a href="https://github.com/yu-pakku/laravel-student-app">学生データバンク</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/yu-pakku/laravel-student-app"><img src="./images/student-data-bank.png" alt="学生データバンク" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%"><h3><a href="https://github.com/yu-pakku/laravel-student-app">学生データバンク</a></h3></th>
+      <th width="50%"><h3><a href="https://github.com/yu-pakku/game">ボードゲーム</a></h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/yu-pakku/laravel-student-app"><img src="./images/student-data-bank.png" alt="学生データバンク" width="1000" /></a></td>
+      <td align="center"><a href="https://github.com/yu-pakku/game"><img src="./images/board-game.png" alt="ボードゲーム" width="1000" /></a></td>
+    </tr>
+    <tr>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+    </tr>
+  </tbody>
 </table>
-<table align="left">
-  <tr><th><h3><a href="https://github.com/yu-pakku/game">ボードゲーム</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/yu-pakku/game"><img src="./images/board-game.png" alt="ボードゲーム" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
-</table>
-<br clear="both" />
 
-<table align="left">
-  <tr><th><h3><a href="#">インディーゲーム</a></h3></th></tr>
-  <tr><td align="center"><a href="#"><img src="./images/indie-game.png" alt="インディーゲーム" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%"><h3><a href="#">インディーゲーム</a></h3></th>
+      <th width="50%"><h3><a href="#">ポートフォリオ</a></h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="#"><img src="./images/indie-game.png" alt="インディーゲーム" width="1000" /></a></td>
+      <td align="center"><a href="#"><img src="./images/portfolio.png" alt="ポートフォリオ" width="1000" /></a></td>
+    </tr>
+    <tr>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+    </tr>
+  </tbody>
 </table>
-<table align="left">
-  <tr><th><h3><a href="#">ポートフォリオ</a></h3></th></tr>
-  <tr><td align="center"><a href="#"><img src="./images/portfolio.png" alt="ポートフォリオ" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
-</table>
-<br clear="both" />
 
 ### 👥 チーム制作
 
-<table align="left">
-  <tr><th><h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/yu-pakku/SnapSpot"><img src="./images/snapspot.png" alt="SnapSpot" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%"><h3><a href="https://github.com/yu-pakku/SnapSpot">SnapSpot</a></h3></th>
+      <th width="50%"><h3><a href="https://github.com/WeatherNewsApp/weather-web-frontend">Muddy</a></h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/yu-pakku/SnapSpot"><img src="./images/snapspot.png" alt="SnapSpot" width="1000" /></a></td>
+      <td align="center"><a href="https://github.com/WeatherNewsApp/weather-web-frontend"><img src="./images/muddy.png" alt="Muddy" width="1000" /></a></td>
+    </tr>
+    <tr>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+      <td valign="top"><details><summary>説明</summary><p>（準備中）</p></details></td>
+    </tr>
+  </tbody>
 </table>
-<table align="left">
-  <tr><th><h3><a href="https://github.com/WeatherNewsApp/weather-web-frontend">Muddy</a></h3></th></tr>
-  <tr><td align="center"><a href="https://github.com/WeatherNewsApp/weather-web-frontend"><img src="./images/muddy.png" alt="Muddy" width="300" /></a></td></tr>
-  <tr><td><details><summary>説明</summary><p>（準備中）</p></details></td></tr>
-</table>
-<br clear="both" />
 
 ## 🛠 Tech Stack
 
